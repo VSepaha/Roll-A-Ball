@@ -12,18 +12,18 @@ When the two minute time period is over, the player with the higher score is dec
 
 ## Controls
 Player 1:
-Up Arrow to move forward
-Down Arrow to move back
-Left Arrow to move left
-Right Arrow to move right
-Right CTRL to jump
+- Up Arrow to move forward
+- Down Arrow to move back
+- Left Arrow to move left
+- Right Arrow to move right
+- Right CTRL to jump
 
 Player 2:
-W Key to move forward
-S Key to move back
-A Key to move left
-D Key to move right
-Q Key to jump
+- W Key to move forward
+- S Key to move back
+- A Key to move left
+- D Key to move right
+- Q Key to jump
 
 Press the spacebar to reset the game
 
